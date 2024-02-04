@@ -36,3 +36,5 @@ Ceylon Comforts is built using the following technologies:
 The website is hosted on [000webhost](https://www.000webhost.com/), providing reliable and secure hosting services.
 
 Feel free to explore Ceylon Comforts and embark on a journey of convenient and delightful hotel bookings in the heart of Sri Lanka. Happy traveling!
+
+![Web capture_30-1-2024_10531_localhost](https://github.com/SanjanaNilanka/CeylonComforts/assets/99161169/e595b709-18cc-4f0c-962b-bdee411b5c43)
